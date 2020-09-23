@@ -1,4 +1,5 @@
 # a simple python code that shows if a set of numbers are different from each other or not
+# after made a new branch 
 def test_distinct(data):
   if len(data) == len(set(data)):
     return True
