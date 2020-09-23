@@ -1,4 +1,4 @@
-//this is a java file that writes java 
+//this is a very simple java code that writes java for learning github
 public class Exercise8 {
  
     public static void main(String[] args) {
