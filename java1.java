@@ -1,4 +1,4 @@
-//this is a very simple java code that writes java for learning github
+// This is a very simple java code that writes java for learning github:
 public class Exercise8 {
  
     public static void main(String[] args) {
